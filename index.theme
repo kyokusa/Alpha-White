@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Alpha-White
+Comment=Trasparent theme for light look
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Alpha-White
+MetacityTheme=Alpha-White
+ButtonLayout=:minimize,maximize,close
